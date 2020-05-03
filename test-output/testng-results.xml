@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21500" started-at="2020-04-04T15:56:48 EDT" finished-at="2020-04-04T15:57:10 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21500" started-at="2020-04-04T15:56:48 EDT" finished-at="2020-04-04T15:57:10 EDT">
+      <class name="PracticePrgMaven.Practice.LaunchBro">
+        <test-method status="PASS" signature="openBro()[pri:0, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="openBro" is-config="true" duration-ms="11326" started-at="2020-04-04T15:56:48 EDT" finished-at="2020-04-04T15:56:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBro -->
+        <test-method status="PASS" signature="getPgTitle()[pri:1, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="getPgTitle" duration-ms="10" started-at="2020-04-04T15:56:59 EDT" finished-at="2020-04-04T15:56:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPgTitle -->
+        <test-method status="PASS" signature="signIn()[pri:2, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="signIn" duration-ms="725" started-at="2020-04-04T15:56:59 EDT" finished-at="2020-04-04T15:57:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method status="PASS" signature="nextPage_SampleForm()[pri:3, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="nextPage_SampleForm" duration-ms="490" started-at="2020-04-04T15:57:00 EDT" finished-at="2020-04-04T15:57:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextPage_SampleForm -->
+        <test-method status="PASS" signature="samplePg_CheckBox()[pri:4, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="samplePg_CheckBox" duration-ms="329" started-at="2020-04-04T15:57:01 EDT" finished-at="2020-04-04T15:57:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samplePg_CheckBox -->
+        <test-method status="PASS" signature="dropDown()[pri:5, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="dropDown" duration-ms="62" started-at="2020-04-04T15:57:01 EDT" finished-at="2020-04-04T15:57:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDown -->
+        <test-method status="PASS" signature="calender()[pri:6, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="calender" duration-ms="2576" started-at="2020-04-04T15:57:01 EDT" finished-at="2020-04-04T15:57:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calender -->
+        <test-method status="PASS" signature="radio()[pri:7, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="radio" duration-ms="97" started-at="2020-04-04T15:57:04 EDT" finished-at="2020-04-04T15:57:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radio -->
+        <test-method status="PASS" signature="checkBox()[pri:8, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="checkBox" duration-ms="215" started-at="2020-04-04T15:57:04 EDT" finished-at="2020-04-04T15:57:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBox -->
+        <test-method status="PASS" signature="srollDown()[pri:9, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="srollDown" duration-ms="147" started-at="2020-04-04T15:57:04 EDT" finished-at="2020-04-04T15:57:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- srollDown -->
+        <test-method status="PASS" signature="uploadFile()[pri:10, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="uploadFile" duration-ms="50" started-at="2020-04-04T15:57:04 EDT" finished-at="2020-04-04T15:57:04 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFile -->
+        <test-method status="PASS" signature="user_enters_verification_code()[pri:11, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="user_enters_verification_code" duration-ms="5079" started-at="2020-04-04T15:57:04 EDT" finished-at="2020-04-04T15:57:09 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_enters_verification_code -->
+        <test-method status="PASS" signature="clicks_submit_button()[pri:12, instance:PracticePrgMaven.Practice.LaunchBro@4f970963]" name="clicks_submit_button" duration-ms="339" started-at="2020-04-04T15:57:09 EDT" finished-at="2020-04-04T15:57:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicks_submit_button -->
+      </class> <!-- PracticePrgMaven.Practice.LaunchBro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
